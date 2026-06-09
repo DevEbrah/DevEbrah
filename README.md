@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&width=500&lines=Hi+,+I'm+Dev+Ebrah;Full-Stack+Developer;Systems+%26+Infrastructure+Engineer;Founder+of+Springs+Continuum;Building+systems+that+simplify+life)](https://git.io/typing-svg)
 
+[![Dev Quote](https://quotes-readme.vercel.app/api/quotes?theme=dark)](https://github.com/shravan20/github-readme-quotes)
+
 ## 🧠 About Me
 
 I am Hibrahim Onyango, also known as *Dev Ebrah* or *Jalmariek*.
