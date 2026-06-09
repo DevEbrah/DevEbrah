@@ -109,19 +109,11 @@ It focuses on:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevEbrah&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DevEbrah&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 - 📍 Nairobi, Kenya  
 - 📧 Open to collaborations, internships & system-building opportunities  
-- 💼 GitHub: https://github.com/DevEbrah  
+- 💼 GitHub: https://github.com/DevEbrah | onyangohibrahim0@gmail.com  
 
 ---
 
