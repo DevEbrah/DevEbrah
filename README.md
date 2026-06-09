@@ -11,7 +11,7 @@ I build systems that simplify life, automate workflows, and enhance digital pres
 
 I am Hibrahim Onyango, also known as *Dev Ebrah* or *Jalmariek*.
 
-I specialize in understanding and building systems from the ground up — including infrastructure, networks, servers, and software systems.
+I specialize in understanding and building systems from the ground up, including infrastructure, networks, servers, and software systems.
 
 My background in IT infrastructure and system administration allows me to connect real-world systems with software solutions that improve efficiency, automation, and digital visibility.
 
