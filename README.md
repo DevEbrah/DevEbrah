@@ -1,4 +1,4 @@
-# Hi there 👋 
+# Hello 👋 ![Visitors](https://komarev.com/ghpvc/?username=DevEbrah&color=blue&style=flat)
 
 ## 🧠 About Me
 
@@ -30,10 +30,9 @@ I am also the founder of **Springs Continuum**, a systems-building framework foc
 - Python · SQL · HTML / CSS · Bash
 - Git & GitHub · REST APIs · Automation scripting
 
-**Infrastructure & Systems**
-- Windows Server · Active Directory (AD DS) · DNS & DHCP
-- Linux (Ubuntu) · System monitoring & administration
-- LAN/WAN configuration · Network security · Cisco networking  
+<p align="">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEbrah&layout=compact&theme=dark&hide_border=true" height="165"/>
+</p> 
 
 ---
  ## 🌍 Springs Continuum
@@ -54,8 +53,11 @@ It's built on three pillars:
 I'm open to **freelance projects**, **collaborations**, and **full-time opportunities** — especially anything at the intersection of development and systems.
 
 - 📍 Nairobi, Kenya
-- 💼 [github.com/DevEbrah](https://github.com/DevEbrah)
-- 📧 onyangohibrahim0 [at] gmail [dot] com
+
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onyangohibrahim0@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevEbrah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hibrahim-onyango-a076531a8)
 
 ---
 
