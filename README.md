@@ -1,120 +1,64 @@
-# Hi there 👋 I'm Ebrah (Dev Ebrah / Jalmariek)
-
-> "Systems should make life simpler, not more complex."
-
-I’m a **Systems & Infrastructure Engineer** and developer based in Nairobi Kenya.  
-I build systems that simplify life, automate workflows, and enhance digital presence in a digital-first world.
-
----
+# Hi there 👋 
 
 ## 🧠 About Me
 
 I am Hibrahim Onyango, also known as *Dev Ebrah* or *Jalmariek*.
 
-I specialize in understanding and building systems from the ground up, including infrastructure, networks, servers, and software systems.
+I'm a **Full-Stack Developer & Systems Engineer** based in Nairobi, Kenya.
 
-My background in IT infrastructure and system administration allows me to connect real-world systems with software solutions that improve efficiency, automation, and digital visibility.
+I sit at the intersection of **software development** and **infrastructure engineering**.
 
-I am the founder of **Springs Continuum**, a systems-building framework focused on automation, digital presence, and business optimization.
+On the dev side, I build full-stack web applications, automation tools, and workflow systems. On the infrastructure side, I design and manage the environments those systems live in — servers, networks, Active Directory, Linux, the works.
 
----
+Most developers don't think about infrastructure. Most sysadmins don't build software. I do both, and that's what makes the difference.
 
-## ⚙️ What I Do
-
-I design and build systems that:
-
-- ⚙️ Automate workflows and repetitive processes  
-- 🌐 Enhance digital presence and business visibility  
-- 🧩 Simplify complex operational systems  
-- 🏗 Bridge infrastructure and software development  
-- 📊 Improve efficiency through structured systems  
+I am also the founder of **Springs Continuum**, a systems-building framework focused on automation, digital presence, and business optimization.
 
 ---
 
-## 🚀 Current Focus
+## 🌱 Currently Focused On
 
-- 🔐 Network & Systems Administration (Windows Server, Linux, Networking)  
-- ⚙️ Automation and workflow system design  
-- 🌐 Digital presence and visibility systems  
-- 🧠 Infrastructure-aware development  
-- 📚 Continuous learning in system design & cybersecurity  
+- Building full-stack projects that solve real problems
+- Expanding **Springs Continuum** into a proper public framework
+- Going deeper into cybersecurity and advanced system design
+- Turning lab work into documented, shareable code
+
+---
+## 🛠 Tech Stack
+
+**Development**
+- Python · SQL · HTML / CSS · Bash
+- Git & GitHub · REST APIs · Automation scripting
+
+**Infrastructure & Systems**
+- Windows Server · Active Directory (AD DS) · DNS & DHCP
+- Linux (Ubuntu) · System monitoring & administration
+- LAN/WAN configuration · Network security · Cisco networking  
+
+---
+ ## 🌍 Springs Continuum
+
+**Springs Continuum** is my systems-building framework — the philosophy I apply to everything I build.
+
+It's built on three pillars:
+- **Automation** — eliminate the repetitive, free up the human
+- **Digital presence** — visibility is opportunity in a digital-first world
+- **Infrastructure-aware development** — build software that understands its environment
+
+> *A system is successful when it works quietly, reliably, and improves life without being noticed.*
 
 ---
 
-## 🛠 Tech & Systems Stack
+## 📫 Let's Connect
 
-### Infrastructure
-- Windows Server Administration  
-- Linux (Ubuntu) Administration  
-- Active Directory (AD DS)  
-- DNS & DHCP  
-- Network Troubleshooting  
-- System Monitoring  
+I'm open to **freelance projects**, **collaborations**, and **full-time opportunities** — especially anything at the intersection of development and systems.
 
-### Networking
-- Cisco Networking Basics  
-- LAN/WAN Configuration  
-- Network Security Fundamentals  
-
-### Development
-- Python  
-- SQL
-- HTML / CSS  
-- Bash scripting  
-- Git & GitHub  
+- 📍 Nairobi, Kenya
+- 💼 [github.com/DevEbrah](https://github.com/DevEbrah)
+- 📧 onyangohibrahim0 [at] gmail [dot] com
 
 ---
 
-## 🌍 What I Build
+⭐ *Thanks for stopping by.*
 
-- Automation systems  
-- Business workflow tools  
-- Digital presence enhancement systems  
-- Infrastructure-based solutions  
-- Productivity systems  
 
----
-
-## 🌱 Philosophy
-
-> "A system is successful when it works quietly, reliably, and improves life without being noticed."
-
-- Simplicity is power  
-- Systems should reduce effort, not add complexity  
-- Infrastructure is the backbone of the digital world  
-- Visibility defines opportunity in a digital-first era  
-
----
-
-## 🚀 Projects
-
-- 🖥 Home Lab (Windows Server + Linux environment)  
-- 🔐 Active Directory, DNS & DHCP configuration practice  
-- 🌐 Networking simulation environments  
-- ⚙️ Automation & scripting experiments  
-
----
-
-## 🌐 Springs Continuum
-
-**Springs Continuum** is my systems-building framework.
-
-It focuses on:
-- Infrastructure-aware development  
-- Automation systems  
-- Digital presence enhancement  
-- Business workflow optimization  
-
-> Building systems that simplify life, automate work, and improve digital visibility.
-
----
-
-## 📫 Connect With Me
-
-- 📍 Nairobi, Kenya  
-- 📧 Open to collaborations, internships & system-building opportunities  
-- 💼 GitHub: https://github.com/DevEbrah | onyangohibrahim0@gmail.com  
-
----
-
-⭐ *Thanks for visiting my profile!*
