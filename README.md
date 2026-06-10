@@ -4,29 +4,28 @@
 
 ## 🧠 About Me
 
-I am Hibrahim Onyango, also known as *Dev Ebrah* or *Jalmariek*.
+I am **Hibrahim Onyango**, also known as *Dev Ebrah* or *Jalmariek*.
 
-I'm a **Full-Stack Developer & Systems Engineer** based in Nairobi, Kenya.
+I’m a **Full-Stack Developer, Network Administrator & Systems Administrator** based in Nairobi, Kenya.
 
-On the dev side, I build full-stack web applications, automation tools, and workflow systems. 
+On the development side, I build full-stack web applications, automation tools, and workflow systems.
 
-On the infrastructure side, I design and manage the environments those systems live in.  
-Servers, Networks, Active Directory, Linux, the works.
+On the infrastructure side, I design, manage, and maintain the environments those systems run on — including servers, networks, Active Directory, and Linux systems.
 
-Most developers don't think about infrastructure. Most sysadmins don't build software. I do both, and that's what makes the difference.
+Most developers don’t work with infrastructure, and most system administrators don’t build software. I work across both, which gives me a complete understanding of how systems are built, deployed, and maintained.
 
-I am also the founder of **Springs Continuum**, a systems-building framework focused on automation, digital presence, and business optimization.
+I am also the founder of **Springs Continuum**, a technology company focused on building and improving digital systems. It focuses on automation, system design, and optimizing how software and infrastructure work together.
 
 ---
 
 ## 🌱 Currently Focused On
 
-- Building full-stack projects that solve real problems
-- Expanding **Springs Continuum** into a proper public framework
-- Going deeper into cybersecurity and advanced system design
-- Turning lab work into documented, shareable code
-
+- Building full-stack projects that solve real-world problems  
+- Growing **Springs Continuum** into a structured technology company  
+- Expanding knowledge in cybersecurity and advanced systems design  
+- Turning lab work and experiments into documented, reusable systems  
 ---
+
 ## 🛠 Tech Stack
 
 **Development**
@@ -57,16 +56,17 @@ I am also the founder of **Springs Continuum**, a systems-building framework foc
 </p> 
 
 ---
- ## 🌍 Springs Continuum
+🌍 Springs Continuum
 
-**Springs Continuum** is my systems-building framework — the philosophy I apply to everything I build.
+Springs Continuum is a technology company and the systems-thinking approach behind my work.
 
-It's built on three pillars:
-- **Automation** — eliminate the repetitive, free up the human
-- **Digital presence** — visibility is opportunity in a digital-first world
-- **Infrastructure-aware development** — build software that understands its environment
+It is guided by three core principles:
 
-> *A system is successful when it works quietly, reliably, and improves life without being noticed.*
+• Automation — eliminating repetitive work to increase efficiency  
+• Digital presence — building visibility in a digital-first world  
+• Infrastructure-aware development — designing software that understands the systems it runs on  
+
+**I believe a system is successful when it works quietly, reliably, and improves life without needing attention**.
 
 ---
 
